@@ -116,7 +116,7 @@ ACCESS_TOKEN_EXPIRATION=Your expiration time
 
 ## Usage
 
-Run `npm run dev` to run the project locally.
+Run `nodemon index.js` to run the project locally.
 
 
 ## GITHUB REPOSITORY LINK (CLIENT SIDE) : https://github.com/programming-hero-web-course2/b10a11-client-side-Md-SayeedAlam
