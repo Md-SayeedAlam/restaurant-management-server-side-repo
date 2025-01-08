@@ -112,7 +112,8 @@ DATABASE_URL=Your MongoDB Atlas URL
 
 JWT_SECRET=Your access token
 
-ACCESS_TOKEN_EXPIRATION=Your expiration time
+DB_USER= mongodb user name
+DB_PASS= mongodb user password
 
 ## Usage
 
